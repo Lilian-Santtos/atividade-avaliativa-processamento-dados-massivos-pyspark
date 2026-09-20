@@ -76,4 +76,4 @@ Para reproduzir os resultados:
 ## Autora
 
 **Lilian Santos**  
-Ciência de Dados e Inteligência Artificial — IESB
+
