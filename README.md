@@ -71,9 +71,3 @@ Para reproduzir os resultados:
 2. Abra o notebook no Google Colab;
 3. Execute as células na ordem apresentada ou utilize **Ambiente de execução → Executar tudo**.
 
----
-
-## Autora
-
-**Lilian Santos**  
-
